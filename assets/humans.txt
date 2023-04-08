@@ -1,0 +1,14 @@
+/* TEAM */
+  Title: FHCOM
+  Site: info@fhcom.de
+
+/* SITE */
+  Last Update: 2022/01/30
+  Standard: HTML5,CSS3,JS
+  Software: GWD
+
+/* THANKS */
+  Name: Felix Hartnagel
+  Name: Marco Knor
+  Name: Tim Schreitmüller
+
